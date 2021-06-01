@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-demo test
+test
 */
 int main() {
   printf("<h1>Hello, Hongik!</h>");
